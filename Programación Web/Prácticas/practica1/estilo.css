@@ -1,0 +1,49 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+/* Clases para INDEX */
+p {
+    color: tomato;
+}
+
+.nombre {
+    color: darkviolet;
+}
+
+.fecha {
+    color: olivedrab;
+}
+
+.texto {
+    color: crimson;
+}
+
+.mayh {
+    width: 10%;
+    margin: 30px;
+}
+
+
+/* CLASES PARA BIOGRAFÍA */
+
+.name {
+    font-weight: 400;
+}
+
+.profile-pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 12px;
+}
+
+.texto {
+    font-weight: 200;
+    color: blueviolet;
+}
+
+.quote {
+    font-weight: 600;
+    color: darkgrey;
+}
