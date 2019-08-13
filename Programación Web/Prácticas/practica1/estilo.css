@@ -29,7 +29,7 @@ p {
 /* CLASES PARA BIOGRAFÍA */
 
 .name {
-    font-weight: 400;
+    font-weight: 900;
 }
 
 .profile-pic {
@@ -38,12 +38,29 @@ p {
     border-radius: 12px;
 }
 
-.texto {
-    font-weight: 200;
-    color: blueviolet;
+.frase {
+    font-weight: 900;
+    color: white;
+}
+
+.frase-container {
+    padding: 5px;
+    background-color: #4a0072;
+    display: inline-flex;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.frase-container-prec {
+    padding: 5px;
+    background-color: #494949;
+    display: inline-flex;
+    text-align: right;
+    border-radius: 8px;
+    float: right;
 }
 
 .quote {
     font-weight: 600;
-    color: darkgrey;
+    color: white;
 }
