@@ -26,7 +26,13 @@ li a {
 }
 
 li a:hover {
+<<<<<<< HEAD
   background-color: #38006b;
+=======
+  background-color: #38006b
+
+;
+>>>>>>> 5ddd21cd6faae98344c6ba709d7329d7d7cb3834
 }
 
 /* Clases para INDEX */
