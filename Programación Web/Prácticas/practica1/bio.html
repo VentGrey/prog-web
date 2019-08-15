@@ -4,6 +4,9 @@
         <meta charset="utf-8"> <!-- Me ahorro los "acute" -->
         <title>Biografía</title>
         <link rel="stylesheet" href="estilo.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/mdb.css">
+        <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
         <ul>
@@ -11,13 +14,13 @@
             <li><a href="bio.html">Biografía</a></li>
         </ul>
 
-        <h1 align="center" class="name"> Omar Jair Purata Funes </h1>
+        <h1 align="center"> Omar Jair Purata Funes </h1>
         <div align="center">
-            <img class="profile-pic" src="images/yo.jpeg">
+            <img class="profile-pic z-depth-1" src="images/yo.jpeg">
         </div>
         <br>
 
-        <div class="frase-container">
+        <div class="container frase-container">
             <p align="center" class="frase">
                 Dev-Ops. Writer by hobby and a lover of dark coffee
                 Evangelist of Rust and emacs. #SoyUG #DCEA.
@@ -26,13 +29,58 @@
 
         <br>
 
-        <div align="right" class="frase-container-prec">
-            <p  align="right" class="quote">
+        <div class="container frase-container-prec">
+            <p align="center" class="quote">
                 "Hacemos conjeturas de precisión basadas en datos poco fiables
                 proporcionados por aquellos de conocimiento cuestionable"
             </p>
         </div>
 
-        <h2>
+        <h2 align="center"> Yet Another Debian User </h2>
+
+        <div class="container">
+            <p>
+                Honestamente no se escribir biografías, si fuese un perfil de facebook probablemente esto estaría
+                lleno de shitposting o videos de gatos.
+
+                No es muy complejo, solo soy otro usuario de debian que ama desarrollar en el lenguaje que se le
+                ponga en frente, adicto a Opeth y probablemente alguien que claramente <b>NO</b> tiene una idea de
+                como se escribe o qué demonios es una biografía.
+            </p>
+        </div>
+
+        <h2 align="center"> Conoce un poco más de mi </h2>
+
+        <div align="center" class="container">
+            <div class="row">
+                <div class="col-sm">
+                    <div class="card h-100">
+                        <img class="thumbnail card-img-top" src="images/Octocat.png">
+                        <div class="card-body">
+                            <h4 class="card-title">Mi GitHub</h4>
+                            <p class="card-text"> Si un día te encuentras aburrido y quieres ver un poco de código de dudosa calidad te invito a darle un vistaso a mis repositorios de código :D </p>
+                            <a href="https://github.com/VentGrey" class="btn btn-primary">Ir a mi GitHub</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="card h-100">
+                        <iframe width="100%" height="300" src="https://www.youtube.com/embed/hadM_9d3kr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                        <div class="card-body">
+                            <h4 class="card-title">Opeth</h4>
+                            <p class="card-text"> No serán los mejores músicos de la historia, pero eh. Al menos un solo de guitarra de 4 minutos es bueno </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="card h-100">
+                        <img class="thumbnail card-img-top" src="images/chart.gif">
+                            <h4 class="card-title">Mi Experiencia</h4>
+                            <p class="card-text"> ¿Cuanto he programado? (O al menos cuanto progreso he medido) ¡Puedes revisas las estadísticas en Sourcerer! </p>
+                            <a href="https://sourcerer.io/ventgrey" class="btn btn-secondary">Visitar Sourcerer</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </body>
 </html>

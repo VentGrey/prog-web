@@ -36,9 +36,6 @@ li a:hover {
 }
 
 /* Clases para INDEX */
-p {
-    color: tomato;
-}
 
 .nombre {
     color: darkviolet;
@@ -78,7 +75,6 @@ p {
 .frase-container {
     padding: 5px;
     background-color: #4a0072;
-    display: inline-flex;
     text-align: center;
     border-radius: 8px;
 }
@@ -86,11 +82,8 @@ p {
 .frase-container-prec {
     padding: 5px;
     background-color: #494949;
-    display: inline-flex;
     text-align: right;
     border-radius: 8px;
-    float: right;
-    box-shadow: 2px 2px 1px grey;
 }
 
 .quote {
