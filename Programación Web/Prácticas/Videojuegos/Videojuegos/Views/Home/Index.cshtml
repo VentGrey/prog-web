@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Videojuegos.Models.Catalogo>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container" align="center">
+    <img style="width: 20% !important" src="https://images-na.ssl-images-amazon.com/images/I/51zVFyZWq7L.png" alt="logo">
+</div>
+
+<div class="text-center">
+    <h1 class="display-4">GameMoon</h1>
+</div>
+
+<div class="container">
+    <div class="view overlay">
+        @foreach (var item in Model)
+        {
+            <div class="card">
+                <div class="view overlay">
+                    <img class="card-img-top" src="@item.Imagen" alt="Cover">
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                </div>
+                <div class="card-body">
+                    <h4 class="card-title text-center">@item.Videojuego</h4>
+                    <p class="card-text text-center">@item.Precio</p>
+                </div>
+            </div>
+            <br>
+        }
+    </div>
+</div>
