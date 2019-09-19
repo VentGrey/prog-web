@@ -1,0 +1,62 @@
+/home/omar/Projects/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.deps.json
+/home/omar/Projects/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.runtimeconfig.json
+/home/omar/Projects/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.runtimeconfig.dev.json
+/home/omar/Projects/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.dll
+/home/omar/Projects/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.pdb
+/home/omar/Projects/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.Views.dll
+/home/omar/Projects/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.Views.pdb
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.csprojAssemblyReference.cache
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.csproj.CoreCompileInputs.cache
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorAssemblyInfo.cache
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorAssemblyInfo.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.AssemblyInfoInputs.cache
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.AssemblyInfo.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.TagHelpers.input.cache
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.TagHelpers.output.cache
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorCoreGenerate.cache
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorTargetAssemblyInfo.cache
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorTargetAssemblyInfo.cs
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.Views.pdb
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.dll
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.pdb
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.csproj.CopyComplete
+/home/omar/Projects/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Producto/Productos.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.deps.json
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.runtimeconfig.json
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.runtimeconfig.dev.json
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.dll
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.pdb
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.Views.dll
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/bin/Debug/netcoreapp2.2/Tienda.Views.pdb
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.csprojAssemblyReference.cache
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.csproj.CoreCompileInputs.cache
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorAssemblyInfo.cache
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorAssemblyInfo.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.AssemblyInfoInputs.cache
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.AssemblyInfo.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.TagHelpers.input.cache
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.TagHelpers.output.cache
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorCoreGenerate.cache
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Producto/Productos.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorTargetAssemblyInfo.cache
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.RazorTargetAssemblyInfo.cs
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.Views.pdb
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.dll
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.pdb
+/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/Debug/netcoreapp2.2/Tienda.csproj.CopyComplete

@@ -1,0 +1,27 @@
+@model IEnumerable<Azure.Models.Pizza>
+
+@{
+    ViewData["Title"] = "Productos";
+}
+
+<div class="container">
+        @foreach (var item in Model) {
+            <br>
+            <div class="card">
+                <div class="view overlay">
+                    <img height="50%" class="card-img-top" src="@item.Imagen" alt="Pizza"/>
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                </div>
+                <div class="card-body">
+                    <h4 class="card-title text-center">@item.Nombre</h4>
+                    <p class="card-text text-center">@item.Descripcion</p>
+                    <hr>
+                    <p class="card-text text-center">@item.Ingredientes</p>
+                    <hr>
+                    <p class="card-text h1 text-center text-success"> $ @item.Precio MXN </p>
+                </div>
+            </div>
+        }
+</div>
