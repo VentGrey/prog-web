@@ -1,14 +1,22 @@
 ﻿<Properties StartupConfiguration="{1E577AC7-2803-45B9-A3ED-EFF7D5F97F9D}|Default">
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Tienda/Controllers/ProductoController.cs">
     <Files>
       <File FileName="Tienda/Views/Shared/_Layout.cshtml" Line="18" Column="19" />
       <File FileName="Tienda/Controllers/ProductoController.cs" Line="64" Column="1" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tienda/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Tienda/Views/Home/Index.cshtml" Line="28" Column="24" />
+      <File FileName="Tienda/Views/Shared/_Layout.cshtml" Line="11" Column="39" />
+>>>>>>> 9de26e7200d04199efd510dd0f82b43fd64d4f19
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Tienda" expanded="True">
             <Node name="Tienda" expanded="True">
+<<<<<<< HEAD
               <Node name="Controllers" expanded="True">
                 <Node name="ProductoController.cs" selected="True" />
               </Node>
@@ -18,6 +26,20 @@
                 <Node name="Producto" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
+=======
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Producto" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+>>>>>>> 9de26e7200d04199efd510dd0f82b43fd64d4f19
             </Node>
           </Node>
         </State>

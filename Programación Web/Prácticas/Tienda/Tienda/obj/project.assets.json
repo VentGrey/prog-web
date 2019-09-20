@@ -12289,11 +12289,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/Tienda.csproj",
       "projectName": "Tienda",
       "projectPath": "/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/Tienda.csproj",
       "packagesPath": "/home/omar/.nuget/packages/",
       "outputPath": "/home/omar/Github/prog-web/Programación Web/Prácticas/Tienda/Tienda/obj/",
+=======
+      "projectUniqueName": "/home/omar/Projects/Tienda/Tienda/Tienda.csproj",
+      "projectName": "Tienda",
+      "projectPath": "/home/omar/Projects/Tienda/Tienda/Tienda.csproj",
+      "packagesPath": "/home/omar/.nuget/packages/",
+      "outputPath": "/home/omar/Projects/Tienda/Tienda/obj/",
+>>>>>>> 9de26e7200d04199efd510dd0f82b43fd64d4f19
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
