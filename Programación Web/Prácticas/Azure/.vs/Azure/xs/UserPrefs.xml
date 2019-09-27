@@ -1,15 +1,31 @@
 ﻿<Properties StartupConfiguration="{A76A7A62-CDB7-4339-94E4-3747F634EF0B}|Default">
-  <MonoDevelop.Ide.ItemProperties.Azure FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Azure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Azure/Models/Pizza.cs">
+    <Files>
+      <File FileName="Azure/Models/Pizza.cs" Line="5" Column="15" />
+      <File FileName="Azure/Controllers/PizzaController.cs" Line="15" Column="14" />
+      <File FileName="Azure/Views/Shared/_Layout.cshtml" Line="18" Column="110" />
+      <File FileName="Azure/Views/Pizza/Pizzas.cshtml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Azure" expanded="True">
             <Node name="Azure" expanded="True">
-              <Node name="Views" expanded="True" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Pizza.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Azure" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
